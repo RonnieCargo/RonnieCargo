@@ -12,6 +12,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+| Project  | Date |
+| ------------- | ------------- |
+| Tribute pg  | Nov 1  |
+| Portfolio pg  | Nov 18  |
+
 <!--
 **RonnieCargo/RonnieCargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
