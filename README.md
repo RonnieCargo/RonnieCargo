@@ -8,7 +8,7 @@
 - Portfolio Page
 
 #### Link to my portfolio page
-[portfolio page]([https://RonnieCargo.github.io/myportfolio](https://github.com/RonnieCargo/))
+[portfolio page](https://RonnieCargo.github.io/myportfolio)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
