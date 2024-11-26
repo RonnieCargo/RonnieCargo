@@ -8,13 +8,13 @@
 - Portfolio Page
 
 #### Link to my portfolio page
-[portfolio page](https://RonnieCargo.github.io/myportfolio)
+[portfolio page]([https://RonnieCargo.github.io/myportfolio](https://github.com/RonnieCargo/))
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 | Project  | Date |
 | ------------- | ------------- |
-| Tribute pg  | Nov 1  |
+| freeCodeCamp pg  | Nov 18  |
 | Portfolio pg  | Nov 18  |
 
 <!--
